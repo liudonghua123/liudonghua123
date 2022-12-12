@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Here is a github statistics from https://github.com/liudonghua123/github-stats.
+
+![overview.svg](https://raw.githubusercontent.com/liudonghua123/github-stats/master/generated/overview.svg)
+
+![languages.svg](https://raw.githubusercontent.com/liudonghua123/github-stats/master/generated/languages.svg)
